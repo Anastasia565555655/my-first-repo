@@ -1,0 +1,39 @@
+80a7f01 HEAD@{0}: merge develop: Fast-forward
+712bd48 HEAD@{1}: checkout: moving from develop to master
+80a7f01 HEAD@{2}: checkout: moving from styles2 to develop
+80a7f01 HEAD@{3}: rebase (finish): returning to refs/heads/styles2
+80a7f01 HEAD@{4}: rebase (start): checkout develop
+76b84a3 HEAD@{5}: checkout: moving from develop to styles2
+80a7f01 HEAD@{6}: checkout: moving from images2 to develop
+80a7f01 HEAD@{7}: rebase (finish): returning to refs/heads/images2
+80a7f01 HEAD@{8}: rebase (start): checkout develop
+18ccadc HEAD@{9}: checkout: moving from develop to images2
+80a7f01 HEAD@{10}: merge styles2: Merge made by the 'ort' strategy.
+18ccadc HEAD@{11}: merge images2: Fast-forward
+712bd48 HEAD@{12}: checkout: moving from styles2 to develop
+76b84a3 HEAD@{13}: commit: Add styles2 folder with new CSS file
+712bd48 HEAD@{14}: checkout: moving from develop to styles2
+712bd48 HEAD@{15}: checkout: moving from images2 to develop
+18ccadc HEAD@{16}: commit: Add new images to images2
+712bd48 HEAD@{17}: checkout: moving from develop to images2
+712bd48 HEAD@{18}: checkout: moving from master to develop
+712bd48 HEAD@{19}: merge develop: Fast-forward
+03b1834 HEAD@{20}: checkout: moving from develop to master
+712bd48 HEAD@{21}: checkout: moving from develop to develop
+712bd48 HEAD@{22}: commit: Update index.html with new image
+03b1834 HEAD@{23}: checkout: moving from master to develop
+03b1834 HEAD@{24}: merge develop: Fast-forward
+8401d7d HEAD@{25}: checkout: moving from develop to master
+03b1834 HEAD@{26}: merge styles: Merge made by the 'ort' strategy.
+4a9be37 HEAD@{27}: merge images: Fast-forward
+f416a5c HEAD@{28}: checkout: moving from styles to develop
+98140fc HEAD@{29}: commit: Rename main.css.txt to main.css
+7247623 HEAD@{30}: commit: Add styles folder with CSS
+f416a5c HEAD@{31}: checkout: moving from develop to styles
+f416a5c HEAD@{32}: checkout: moving from images to develop
+4a9be37 HEAD@{33}: commit: Add image sources to index.html
+d913529 HEAD@{34}: commit: Add images folder with pictures
+f416a5c HEAD@{35}: checkout: moving from develop to images
+f416a5c HEAD@{36}: commit: Add empty index.html
+8401d7d HEAD@{37}: checkout: moving from master to develop
+8401d7d HEAD@{38}: commit (initial): Init with readme.txt
